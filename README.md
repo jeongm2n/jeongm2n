@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#D9E5FF&height=300&section=header&text=정민's%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#E0ECF8&height=300&section=header&text=정민's%20Git&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeongm2n)](https://github.com/jeongm2n)
 
