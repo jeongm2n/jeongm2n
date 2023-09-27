@@ -23,5 +23,5 @@
 # Welcome 👋
 
 ## Blog
-[Velog](https://velog.io/@jeongm2n)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongm2n)](https://velog.io/@jeongm2n)
 
