@@ -12,10 +12,10 @@
 ![MySQL](https://img.shields.io/badge/-Mysql-1F305F?style=flat-square&logo=Mysql&logoColor=white)
 ---
 
-# Hi there 👋
+# Welcome 👋
 
 
-[네이버](https://naver.com)
+[Velog](https://velog.io/@jeongm2n)
 
 
 :joy:
