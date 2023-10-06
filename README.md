@@ -11,8 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-FD5750?style=flat-square&logo=CSS&logoColor=magenta)
 ![Python](https://img.shields.io/badge/-Python-fa8072?style=flat-square&logo=Python&logoColor=white)
-![Jsp](https://img.shields.io/badge/-Jsp-#DAA520?style=flat-square&logo=Jsp&logoColor=white)
-![Mustache](https://img.shields.io/badge/-Mustache-#F08080?style=flat-square&logo=Mustache&logoColor=white)
 <br><br>
 
 ## 개발환경
