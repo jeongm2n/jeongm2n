@@ -1,6 +1,7 @@
-# Welcome 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jeongm2n's%20Github&fontColor=#FFFFFF&fontSize=50&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jeongm2n's%20Github&fontColor=#FFFFFF&fontSize=50&animation=blinking)
+# Welcome 👋
+<br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeongm2n)](https://github.com/jeongm2n)
 
