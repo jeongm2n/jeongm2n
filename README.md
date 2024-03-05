@@ -6,16 +6,16 @@
 
 
 ## 사용언어
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-FD5750?style=flat-square&logo=CSS&logoColor=magenta)
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-fa8072?style=flat-square&logo=Python&logoColor=white)
 <br><br>
 
 ## 개발환경
 ![Eclipse](https://img.shields.io/badge/-Eclipse-navy?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-purple?style=for-the-badge&logo=IntelliJ&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VScode-purple?style=for-the-badge&logo=VScode&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-1F305F?style=flat-square&logo=Mysql&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/-OracleDB-red?style=flat-square&logo=OracleDB&logoColor=white)
