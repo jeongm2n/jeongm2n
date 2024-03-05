@@ -15,7 +15,7 @@
 
 ## 개발환경
 ![Eclipse](https://img.shields.io/badge/-Eclipse-navy?style=for-the-badge&logo=Eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VScode-purple?style=for-the-badge&logo=VScode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VScode-white?style=for-the-badge&logo=VScode&logoColor=blue)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-1F305F?style=flat-square&logo=Mysql&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/-OracleDB-red?style=flat-square&logo=OracleDB&logoColor=white)
